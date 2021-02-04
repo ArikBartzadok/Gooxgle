@@ -108,7 +108,9 @@ body {
 }
 
 .content__search:focus{
-    border: 1px solid red;
+    border: 1px solid #4285f4;
+    transition: 0.5s;
+    border-radius: 10px;
 }
 
 .content__offer{
